@@ -40,7 +40,6 @@
     font-size: 8px;
     margin-bottom: 0px;
     margin-top: 0px;
-    z-index: -1;
   }
   ul.range-label li:first-of-type {
     justify-self: start;

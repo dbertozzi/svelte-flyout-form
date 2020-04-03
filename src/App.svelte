@@ -3,11 +3,11 @@
 </script>
 <style>
 	div {
-		height: 100%;
-		display: flex;
-		justify-content: flex-end;
-		align-items: flex-end;
+		position: fixed;
+		right: 2em;
+		bottom: 2em;
 	}
+
 </style>
 <div>
 	<Feedback />
